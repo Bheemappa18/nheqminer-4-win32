@@ -8,12 +8,12 @@ Thanks to kost. This is binary compiled and modified from https://github.com/kos
 If you want to donate the first modifier (kost), you can go to his nheqminer's repo to find his ZEC and BTC address.
 If you want to donate the second modifier and compiler (me), you can donate via addresses below:
  
- BTC:15uEG6uid79mUYUVDZ3rSZMQxi49pnp1z8
+ BTC:3LKZDYCcFHkCLNECirAhr1PVTETAWCcbYd
  
- ZEC:t1cjENkzYPyuUaJxDcrq6kY7y4mhrWcnM2A
+ ZEC:t1Re3HxEDn3js5xKuwmM4Sg1PNtpYQqk1jx
 
-LTC:LNmiR9qU8m6M8HzYAUaSBH7akb3945hpyU
+LTC:MNZUgq5c6XHwR7bsYiasuyiUatyA84jHPR
 
-XMR:4B6sYYUEpYaiX3Z2U5EVW4Cq8JLxaMXQsBUtXGCAL9p8D4YyyBvniPJ5LKQcUN8jVG9SprG8s2hRMexJWhdvEPmuV3fKF15
+XMR:4886K2NrJKL7rM9VXEB1JPHWUvseo7ULcWYHAwk3zB8ed8cpLfccvgTX3fGXh5q86FfA6SpReTiJdFvZR6n21voz4M7EC4U
 
-ETH:0x3484f9fe4fb2fbf679c7d509e575471effff3935
+ETH:0x9bE97A0EfC213858ea2c63eBd11e27Be7F3a43f0
